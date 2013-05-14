@@ -1,4 +1,15 @@
-* a day of ordinary.
-***  <2013-05-15 수>
+* a day of ordinary life.
+***  <2013-05-15 수> // Shiny, not hot.
 
-shine, some hot. 
+ A new day as always.  Expect a fine day. I am not good at English. So bad for me, but why so serious about it.
+
+Using a emacs is not easy 4 me. I have few knowledge of programming or editor nor developing environment. There are manuals and books about emacs, I have no idea what shoud i do after all the black and white on screen and papers.
+
+
+... but I am writing this log with emacs. why?
+
+I just simply don't know. But when I saw the name, emacs in the book, pragmatic programmer, my heart keep calling emacs.
+
+I just can't help it.
+
+
