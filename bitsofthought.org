@@ -8,7 +8,7 @@ Using a emacs is not easy 4 me. I have few knowledge of programming or editor no
 
 ... but I am writing this log with emacs. why?
 
-I just simply don't know. But when I saw the name, emacs in the book, pragmatic programmer, my heart keep calling emacs.
+I just simply don't know. But when I saw the name, emacs in the book,[[http://pragprog.com/book/tpp/the-pragmatic-programmer] [pragmatic programmer]], my heart keep calling emacs.
 
 I just can't help it.
 
