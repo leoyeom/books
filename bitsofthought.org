@@ -32,6 +32,6 @@ starting now.
 
 
 * business model checking 
- - trading mechanism
  - marketing point
+ - trading mechanism
 
